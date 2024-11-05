@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izatouxi.github.io/DKZ/sitemap_index.txt
+Sitemap: https://izatouxi.github.io/eag/sitemap_index.txt
+Sitemap: https://izatouxi.github.io/oiT/sitemap_index.txt
+Sitemap: https://izatouxi.github.io/xPF/sitemap_index.txt
